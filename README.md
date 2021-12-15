@@ -2,9 +2,9 @@
 ### Description
 This repository contains a project on HTML anonymization.
 
-We support parsing of custom urls and anonymization of all texts inside. It's implemented via BeatufilSoup, SpaCy and Presidio libraries.
+We support parsing of custom urls and anonymization of all texts inside. It's implemented via BeatufilSoup, SpaCy, and Presidio libraries.
 
-Also we support downloading page's contents (scripts, images, css-files). **Note: This feature is unstable and may not work on a variety of pages**.
+Also, we support downloading the page's contents (scripts, images, css-files). **Note: This feature is unstable and may not work on a variety of pages**.
 ### Installation & Usage
 To install the project follow the steps:
 1. Install required packages with `pip install -r requirements.txt`
@@ -24,4 +24,18 @@ optional arguments:
 ```
 
 ### Examples
-Examples and results can be found in folders `arxiv`, `rational_harry`, `edgar_po`.
+Results can be found in folders `arxiv`, `rational_harry`, `edgar_po`.
+
+Examples are below:
+
+#### Harry Potter and Methods of Rationality
+
+![](images/rational_harry.gif)
+
+#### Edgar Po Biography
+
+![](images/edgar.gif)
+
+#### Arxiv Article
+
+![](images/arxiv.png)
