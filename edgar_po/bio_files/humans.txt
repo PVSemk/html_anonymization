@@ -1,0 +1,15 @@
+/* TEAM */
+
+Creator: Poetry Foundation
+URL: https://poetryfoundation.org/
+Description: The Poetry Foundation, publisher of POETRY magazine, is an independent literary organization committed to a vigorous presence for poetry in our culture. It exists to discover and celebrate the best poetry and to place it before the largest possible audience. 
+
+/* THANKS */
+
+Craft CMS - https://craftcms.com
+Pixel & Tonic - https://pixelandtonic.com
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Craft CMS 3, Yii2, PHP, JavaScript
